@@ -3,3 +3,4 @@ commit 2
 commit 3
 reset 1
 reset 2
+reset 3
